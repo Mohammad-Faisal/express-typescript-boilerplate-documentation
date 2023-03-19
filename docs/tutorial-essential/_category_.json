@@ -1,0 +1,8 @@
+{
+  "label": "Tutorial - Essentials",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about how to implement the best practices"
+  }
+}
