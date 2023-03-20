@@ -4,6 +4,14 @@ sidebar_position: 3
 
 # Getting Started
 
+# Pre Requisites
+
+To run this project You will need the following things installed on your machine
+
+- NodeJS
+- NPM
+- Docker (Optional)
+
 ## Learn while building
 
 One key difference with other similar projects is that I documented every step in the way.
